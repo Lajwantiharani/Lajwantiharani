@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lajwantiharani
-- 👀 I’m interested in Pprogramming
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on open source project
 
