@@ -4,7 +4,7 @@
 Karachi, Pakistan · +92 330 6551014  
 [lajwantiharani7@gmail.com](mailto:lajwantiharani7@gmail.com) · [LinkedIn](https://www.linkedin.com/in/lajwantiharani/) · [GitHub](https://github.com/lajwantiharani)
 
-![Dark Mode Badge](https://img.shields.io/badge/Dark%20Mode-Enabled-000?style=for-the-badge&logo=github&logoColor=white)
+
 
 ---
 
@@ -39,9 +39,9 @@ Node.js ████████ 75
 MongoDB ████████ 70%
 PHP ███████ 65%
 
-*You can animate this using [GitHub Readme Animations](https://github.com/DenverCoder1/github-readme-typing-svg)*
 
----
+
+
 
 ## 🚀 Featured Projects
 
@@ -57,8 +57,6 @@ PHP ███████ 65%
 - [**Harvest Hub**](https://github.com/lajwantiharani/harvest-hub)  
   Fair-trade marketplace connecting 150+ farmers and 40 NGOs, with analytics dashboard.
 
-> 💡 *You can make this carousel interactive with [GitHub Profile Readme Carousel](https://github.com/abhisheknaiidu/awesome-github-profile-readme#project-showcases)*
-
 ---
 
 ## 📥 Download Resume
@@ -69,7 +67,7 @@ PHP ███████ 65%
 
 ## 📈 GitHub Stats
 
-![Lajwanti's GitHub stats](https://github-readme-stats.vercel.app/api?username=lajwantiharani&show_icons=true&theme=radical)  
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lajwantiharani&layout=compact&theme=radical)
 
 ---
