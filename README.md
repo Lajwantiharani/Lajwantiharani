@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Lajwanti Harani
 
 **Software Engineer | MERN Stack Developer**  
-Karachi, Pakistan · +92 330 6551014  
+Karachi, Pakistan ·   
 [lajwantiharani7@gmail.com](mailto:lajwantiharani7@gmail.com) · [LinkedIn](https://www.linkedin.com/in/lajwantiharani/) · [GitHub](https://github.com/lajwantiharani)
 
 
@@ -40,7 +40,7 @@ MongoDB ████████ 70%
 PHP ███████ 65%
 
 
-
+---
 
 
 ## 🚀 Featured Projects
