@@ -48,6 +48,4 @@ I build **practical web solutions** with a focus on clean UX, reliable backends,
 
 ---
 
-## ⚡ GitHub Stats
 
-![Lajwanti's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
