@@ -9,7 +9,7 @@
 
 I'm a software engineer with 1+ years of hands-on full-stack experience, building **responsive, scalable, and user-focused web applications**. My main stack is **MongoDB, Express, React, and Node.js (MERN)**, and I also work with WordPress and eCommerce systems, with an eye on secure and well-structured workflows.
 
-🎓 B.E. in Software Engineering, **Mehran University of Engineering & Technology, Jamshoro** (CGPA 3.09)
+🎓 B.E. in Software Engineering, **Mehran University of Engineering & Technology, Jamshoro**
 📚 Currently building on my technical background with studies in business management, career development, and networking.
 
 ---
